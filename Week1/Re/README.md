@@ -8,7 +8,7 @@
 
 # Crackme_for_begginer
 
-od右键查看字符串，找到程序逻辑所在位置，然后单步运行找到判断flag的关键跳转，右键使用汇编使用nop填充，拿到falg。当然也可以直接逆password是什么：43967777
+od右键查看字符串，找到程序逻辑所在位置，然后单步运行找到判断flag的关键跳转，右键使用汇编使用nop填充，拿到flag。当然也可以直接逆password是什么：43967777
 
 ![](https://img-cjm00n.oss-cn-shenzhen.aliyuncs.com/Snipaste_2019-09-02_23-59-34.png)
 

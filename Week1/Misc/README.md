@@ -111,6 +111,6 @@ PS: 一直提交fake_flag的大哥真的凶残
 然后解出来一个pyc, 尝试跑一下, 啥都没有
 用pycdc反编译一下就能拿到flag了
 
-![](https://img-cjm00n.oss-cn-shenzhen.aliyuncs.com/1.png)
+![](https://img-cjm00n.oss-cn-shenzhen.aliyuncs.com/20190903110500.png)
 
 PS: 其实这题我要背锅, 忘记了密码长度会决定爆破时间的长短, 大哥说1h多才爆出来
